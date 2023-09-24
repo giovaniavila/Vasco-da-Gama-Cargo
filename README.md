@@ -24,7 +24,8 @@ Uma empresa de logística está enfrentando desafios na rastreabilidade em tempo
 <br>
 
 ### :paintbrush: Design
-![design-projeto](https://github.com/giovaniavila/Vasco-da-Gama-Cargo/assets/112128418/a3035a30-de9c-451b-a4c1-0034f141b324)
+![novoProjetoDesign](https://github.com/giovaniavila/Vasco-da-Gama-Cargo/assets/112128418/29818514-7ec4-4b5c-8e83-e661bc6d459a)
+
 
 
 <br>
