@@ -1,6 +1,8 @@
 # :red_circle: :yellow_circle: :green_circle: Vascão Express 
 <br>
 
+
+
 ### :pushpin: Problemática
 Uma empresa de logística está enfrentando desafios na rastreabilidade em tempo real de seus veículos e remessas, o que afeta a eficiência operacional e a satisfação do cliente. Motoristas enfrentam dificuldades para otimizar rotas e responder a eventos inesperados, enquanto a equipe de gerenciamento carece de visibilidade em tempo real para tomar decisões informadas sobre a alocação de recursos e melhorias operacionais.
 
